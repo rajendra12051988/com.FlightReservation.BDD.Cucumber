@@ -1,0 +1,88 @@
+[INFO ] 2019-09-09 03:21:22.994 [main] LoginPage - Entering 'mercury' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:21:25.105 [main] LoginPage - Entered 'mercury' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:21:25.106 [main] LoginPage - Entering 'mercury' in the 'Password' edit field
+[INFO ] 2019-09-09 03:21:25.312 [main] LoginPage - Entered 'mercury' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:21:25.315 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:21:30.378 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:21:38.676 [main] LoginPage - Entering '&()^%$!' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:21:38.850 [main] LoginPage - Entered '&()^%$!' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:21:38.850 [main] LoginPage - Entering 'mercury' in the 'Password' edit field
+[INFO ] 2019-09-09 03:21:39.020 [main] LoginPage - Entered 'mercury' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:21:39.021 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:21:40.607 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:21:47.170 [main] LoginPage - Entering 'mercury' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:21:47.367 [main] LoginPage - Entered 'mercury' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:21:47.368 [main] LoginPage - Entering '&()^%$!' in the 'Password' edit field
+[INFO ] 2019-09-09 03:21:47.571 [main] LoginPage - Entered '&()^%$!' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:21:47.572 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:21:49.199 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:21:56.620 [main] LoginPage - Entering 'admin' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:21:56.833 [main] LoginPage - Entered 'admin' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:21:56.833 [main] LoginPage - Entering 'admin' in the 'Password' edit field
+[INFO ] 2019-09-09 03:21:56.996 [main] LoginPage - Entered 'admin' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:21:56.999 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:21:58.428 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:22:04.735 [main] LoginPage - Entering 'mercury' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:22:04.952 [main] LoginPage - Entered 'mercury' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:22:04.952 [main] LoginPage - Entering 'mercury' in the 'Password' edit field
+[INFO ] 2019-09-09 03:22:05.143 [main] LoginPage - Entered 'mercury' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:22:05.145 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:22:10.038 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:45:06.545 [main] LoginPage - Entering 'mercury' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:45:06.751 [main] LoginPage - Entered 'mercury' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:45:06.752 [main] LoginPage - Entering 'mercury' in the 'Password' edit field
+[INFO ] 2019-09-09 03:45:06.926 [main] LoginPage - Entered 'mercury' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:45:06.928 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:45:12.302 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:45:12.410 [main] FindAFlightPage - Selecting 'one way' trip type
+[INFO ] 2019-09-09 03:45:13.130 [main] FindAFlightPage - Selected 'one way' trip type successfully
+[INFO ] 2019-09-09 03:45:13.131 [main] FindAFlightPage - Selecting 'London' from 'Departing From' drop down
+[INFO ] 2019-09-09 03:45:16.763 [main] FindAFlightPage - Selected 'London' from 'Departing From' drop down successfully
+[INFO ] 2019-09-09 03:45:16.763 [main] FindAFlightPage - Selecting 'Paris' from 'Arriving In' drop down
+[INFO ] 2019-09-09 03:45:16.976 [main] FindAFlightPage - Selected 'Paris' from 'Arriving In' drop down successfully
+[INFO ] 2019-09-09 03:45:16.977 [main] FindAFlightPage - Selecting 'First' class preference
+[INFO ] 2019-09-09 03:45:17.090 [main] FindAFlightPage - Selected 'First' class preference successfully
+[INFO ] 2019-09-09 03:45:17.090 [main] FindAFlightPage - Selecting 'Blue Skies Airlines' from 'Airline' drop down
+[INFO ] 2019-09-09 03:45:17.296 [main] FindAFlightPage - Selected 'Blue Skies Airlines' from 'Airline' drop down successfully
+[INFO ] 2019-09-09 03:45:17.298 [main] FindAFlightPage - Clicking on 'Find Flights'
+[INFO ] 2019-09-09 03:45:18.408 [main] FindAFlightPage - Clicked on 'Find Flights' successfully
+[INFO ] 2019-09-09 03:45:18.412 [main] ReserveAFlightPage - Clicking on 'Reserve Flight'
+[INFO ] 2019-09-09 03:45:19.080 [main] ReserveAFlightPage - Clicked on 'Reserve Flight' successfully
+[INFO ] 2019-09-09 03:45:19.084 [main] BookAFlightPage - Entering 'Rajendra' in the 'First Name' edit field
+[INFO ] 2019-09-09 03:45:19.359 [main] BookAFlightPage - Entered 'Rajendra' in the 'First Name' edit field successfully
+[INFO ] 2019-09-09 03:45:19.360 [main] BookAFlightPage - Entering 'Mahapatra' in the 'Last Name' edit field
+[INFO ] 2019-09-09 03:45:19.567 [main] BookAFlightPage - Entered 'Mahapatra' in the 'Last Name' edit field successfully
+[INFO ] 2019-09-09 03:45:19.568 [main] BookAFlightPage - Entering '9861688595' in the 'Credit Card Number' edit field
+[INFO ] 2019-09-09 03:45:19.601 [main] BookAFlightPage - Entered '9861688595' in the 'Credit Card Number' edit field successfully
+[INFO ] 2019-09-09 03:45:20.406 [main] BookingConfirmationPage - Fetching booking confirmation text
+[INFO ] 2019-09-09 03:45:20.471 [main] BookingConfirmationPage - Fetched booking confirmation text successfully
+[INFO ] 2019-09-09 03:45:29.191 [main] LoginPage - Entering 'mercury' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:45:29.410 [main] LoginPage - Entered 'mercury' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:45:29.411 [main] LoginPage - Entering 'mercury' in the 'Password' edit field
+[INFO ] 2019-09-09 03:45:29.664 [main] LoginPage - Entered 'mercury' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:45:29.665 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:45:34.298 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:45:40.600 [main] LoginPage - Entering '&()^%$!' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:45:40.782 [main] LoginPage - Entered '&()^%$!' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:45:40.782 [main] LoginPage - Entering 'mercury' in the 'Password' edit field
+[INFO ] 2019-09-09 03:45:40.931 [main] LoginPage - Entered 'mercury' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:45:40.932 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:45:43.422 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:45:49.673 [main] LoginPage - Entering 'mercury' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:45:49.863 [main] LoginPage - Entered 'mercury' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:45:49.863 [main] LoginPage - Entering '&()^%$!' in the 'Password' edit field
+[INFO ] 2019-09-09 03:45:50.022 [main] LoginPage - Entered '&()^%$!' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:45:50.024 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:45:51.579 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:45:58.876 [main] LoginPage - Entering 'admin' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:45:59.047 [main] LoginPage - Entered 'admin' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:45:59.047 [main] LoginPage - Entering 'admin' in the 'Password' edit field
+[INFO ] 2019-09-09 03:45:59.245 [main] LoginPage - Entered 'admin' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:45:59.246 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:46:00.608 [main] LoginPage - Clicked on 'Sign In' successfully
+[INFO ] 2019-09-09 03:46:06.782 [main] LoginPage - Entering 'mercury' in the 'UserName' edit field
+[INFO ] 2019-09-09 03:46:06.982 [main] LoginPage - Entered 'mercury' in the 'UserName' edit field successfully
+[INFO ] 2019-09-09 03:46:06.982 [main] LoginPage - Entering 'mercury' in the 'Password' edit field
+[INFO ] 2019-09-09 03:46:07.143 [main] LoginPage - Entered 'mercury' in the 'Password' edit field successfully
+[INFO ] 2019-09-09 03:46:07.144 [main] LoginPage - Clicking on 'Sign In'
+[INFO ] 2019-09-09 03:46:13.768 [main] LoginPage - Clicked on 'Sign In' successfully

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="78.457681">
+<testcase classname="End To End Functionality of Flight Reservation Application" name="Verify End To End Functionality of Flight Reservation Application" time="25.23639">
+<system-out><![CDATA[Given user is on login page of Flight Reservation...........................passed
+When user enters valid "mercury" and "mercury"..............................passed
+And clicks on signIn Image..................................................passed
+Then verify "Find a Flight: Mercury Tours:".................................passed
+When user enters flight details like "London" and "Paris" and "Blue Skies Airlines".passed
+And clicks on Find Flights..................................................passed
+And clicks on Reserve Flights...............................................passed
+And user enters passenger details like "Rajendra" and "Mahapatra" and "9861688595".passed
+And clicks on Buy Flights...................................................passed
+Then Booking Confirmation Text is displayed.................................passed
+And close Application.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Verify Login Functionality by providing valid user credentials" time="13.766858">
+<system-out><![CDATA[Given user is on login page of Flight Reservation...........................passed
+When user enters valid "mercury" and "mercury"..............................passed
+And clicks on signIn Image..................................................passed
+Then user should be loggin successfully.....................................passed
+And close Application.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Verify Login Functionali with valid and invalid credentials" time="9.133939">
+<system-out><![CDATA[Given user is on login page of Flight Reservation...........................passed
+When user enters valid "&()^%$!" and "mercury"..............................passed
+And clicks on signIn Image..................................................passed
+Then verify "Sign-on: Mercury Tours"........................................passed
+And close Application.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Verify Login Functionali with valid and invalid credentials 2" time="8.137204">
+<system-out><![CDATA[Given user is on login page of Flight Reservation...........................passed
+When user enters valid "mercury" and "&()^%$!"..............................passed
+And clicks on signIn Image..................................................passed
+Then verify "Sign-on: Mercury Tours"........................................passed
+And close Application.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Verify Login Functionali with valid and invalid credentials 3" time="9.001962">
+<system-out><![CDATA[Given user is on login page of Flight Reservation...........................passed
+When user enters valid "admin" and "admin"..................................passed
+And clicks on signIn Image..................................................passed
+Then verify "Sign-on: Mercury Tours"........................................passed
+And close Application.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Verify Login Functionali with valid and invalid credentials 4" time="13.181328">
+<system-out><![CDATA[Given user is on login page of Flight Reservation...........................passed
+When user enters valid "mercury" and "mercury"..............................passed
+And clicks on signIn Image..................................................passed
+Then verify "Find a Flight: Mercury Tours:".................................passed
+And close Application.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
